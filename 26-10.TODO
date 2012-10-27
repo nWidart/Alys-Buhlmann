@@ -1,0 +1,46 @@
+Buhlmann:
+IE:
+ ✔ Menu : dégradation rgba() @done (12-10-26 09:00)
+ ✔ Menu déroulant : dégradation rgba() @done (12-10-26 09:00)
+ ☐ 
+ 
+ Fix d'erreurs:
+ ✔ Padding bottom sur l'adresse (bas droite) @done (12-10-26 09:46)
+ ✔ Background sur les Childs de 'Rolling Stock' @done (12-10-26 10:02)
+ ✔ Diminuer la taille du "B" @done (12-10-26 10:12)
+ ✔ Arrondir l'ovale dans le 'B' @done (12-10-26 10:12)
+ ✔ Diminuer le temps des transitions à .1 ou rien. @done (12-10-26 10:30)
+ ✔ Gripman -> Gripmann @done (12-10-26 10:31)
+
+Menu lava:
+ ✔ Changer occasion par Contact @done (12-10-26 12:02)
+ ✔ Liens occasions dans 'Machine Outils' @done (12-10-26 12:16)
+ ✔ Changer 'Ferroviaire' par 'Rolling Stock' @done (12-10-26 12:19)
+ ✔ Inverser IMO & Robotix @done (12-10-26 12:20)
+ ☐ 
+
+ Formulaire de contact:
+ ✔ Ajout d'un select 'Département' (Rolling Stock, Machine outils, IMO, Robotix) @done (12-10-26 12:22)
+ ☐ 
+
+ Contact:
+ ✔ Ajout d'une page de contact avec les adresses @done (12-10-26 12:22)
+ ☐ 
+
+ Menu right-col:
+ ✔ Enlever 'Liens utiles' par 'Contactez-nous' @done (12-10-26 12:48)
+ ✔ Comme éléments : 'Email' , qui envoie vers différentes email en fonction de la page actuelle. @done (12-10-26 12:50)
+ ✔ Le sujet en Anglais @done (12-10-26 12:50)
+ ✔ Block 'News' -> News générale' @done (12-10-26 12:50)
+ ✔ Ajouter block 'News *département*' @done (12-10-26 13:50)
+ ☐ 
+
+ Newsletter:
+ ✔ Supr form de Campain Monitor @done (12-10-26 14:13)
+ ✔ Ajouter form qui envoie vers e-mail en fonction de la page @done (12-10-26 14:13)
+ ✔ Sujet : Nom de section en Anglais @done (12-10-26 14:14)
+
+ Menu déroulant:
+ ✔ Etat :hover plus foncée @done (12-10-26 13:51)
+ ✔ Partie Rolling Stock: Ajouter une intro(résumer) à gauche (couleur cotrastée) @done (12-10-26 14:57)
+ ☐ 
